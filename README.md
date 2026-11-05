@@ -17,3 +17,8 @@ This is a 3D printed jukebox that plays music discs when inserted by using an RC
 | Wires (10 cm) | For wiring | $0.00 | Provided for me |
 | 2-to-1 Wires | For Wiring | $7.98 | Amazon |
 |   |   | $66.10 |   |
+
+
+<img width="3024" height="3025" alt="JukeboxAndDiscs" src="https://github.com/user-attachments/assets/0c822068-3bff-48ec-ac6e-335df3b9b608" />
+<img width="4284" height="5712" alt="ScenicJukebox" src="https://github.com/user-attachments/assets/b8e8a3c0-d642-43b6-93b3-4e959d23ff35" />
+
