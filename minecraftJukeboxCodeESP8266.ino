@@ -22,7 +22,7 @@
 // #define TEST_PLAY_ON_BOOT
 #define GAIN 0.15  //Volume (0.0 - 4.0)
 #define MISS_INTERVAL_CHECK 500   //In ms
-#define MISSES_NEEDED 3
+#define MISSES_NEEDED 4
 
 
 //NFC tag to song lists
